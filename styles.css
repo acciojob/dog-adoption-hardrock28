@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+.dog_Info li {
+	list-style-type:none;
+}
